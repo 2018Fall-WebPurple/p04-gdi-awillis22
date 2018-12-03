@@ -1,0 +1,44 @@
+/*
+* Alex Willis 
+* November 29, 2018
+* Girl Develop It Project  
+*/
+
+/* The universal selector */
+
+* { 
+
+} 
+
+/* Body attributes here */
+
+body {
+
+    background-color: #ffe6e6; 
+    font-family: arial, sans-serif, serif; 
+}
+
+header {background-color: #ff6666;
+        text-align: center; 
+}
+
+#photo-2 {float: right;
+          height: 200px;
+          width: 300px;
+}
+
+#photo-1 {float: right;
+          height: 200px;
+          width: 300px;
+}
+
+/* font for the headings */ 
+h1 {font-family: cursive, arial, sans-serif;
+}
+
+h2 {font-family: cursive, arial, sans-serif; 
+}
+
+/* color and font-size for all the links */
+a:hover, a:focus {color: #ff00bf; font-size: 130%;
+}
